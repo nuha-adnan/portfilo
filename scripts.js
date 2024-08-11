@@ -6,9 +6,9 @@ document.addEventListener('DOMContentLoaded', () => {
             link: 'https://github.com/Norinofa/I8-SE'
         },
         {
-            title: 'Project Two',
-            description: 'A brief description of project two.',
-            link: '#'
+            title: 'APLIT',
+            description: 'web-based learning application .',
+            link: 'https://github.com/nuha-adnan/APLIT'
         },
         {
             title: 'Project Three',
