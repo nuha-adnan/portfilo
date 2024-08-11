@@ -1,9 +1,9 @@
 document.addEventListener('DOMContentLoaded', () => {
     const projects = [
         {
-            title: 'Project One',
-            description: 'A brief description of project one.',
-            link: '#'
+            title: '18-SE',
+            description: 'Das Repository enthält die Vorlage einer Projektstruktur und Template-Dokumente im AsciiDoc-Format. Dies wird für die Bearbeitung der Belegarbeit in Software Engineering I und II benötigt. Im Detail wären dies:Projektstruktur anhand der Work Products im OpenUP Templates der benötigten OpenUP-Dokumente (AsciiDoc-Format) Vorlage für die Belegabgabe in SE I (AsciiDoc-Format) ',
+            link: 'https://github.com/Norinofa/I8-SE'
         },
         {
             title: 'Project Two',
