@@ -11,9 +11,9 @@ document.addEventListener('DOMContentLoaded', () => {
             link: 'https://github.com/nuha-adnan/APLIT'
         },
         {
-            title: 'Project Three',
-            description: 'A brief description of project three.',
-            link: '#'
+            title: 'Java Advanced ',
+            description: 'Advanced Data Strcture and Algorithems ',
+            link: 'https://github.com/nuha-adnan/Java'
         }
     ];
 
